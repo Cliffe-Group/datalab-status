@@ -4,35 +4,39 @@
     "url": "https://datalab.cliffegroup.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/datalab.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 434,
-    "timeWeek": 420,
-    "timeMonth": 420,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "time": 386,
+    "timeDay": 337,
+    "timeWeek": 386,
+    "timeMonth": 386,
+    "timeYear": 386,
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   },
   {
     "name": "Cliffe Group Datalab (API)",
     "url": "https://datalab-api.cliffegroup.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 461,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
-    "dailyMinutesDown": {}
+    "time": 448,
+    "timeDay": 446,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   }
 ]
