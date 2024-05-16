@@ -1,7 +1,7 @@
 url: https://datalab-api.cliffegroup.co.uk
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2024-05-16T23:15:59.983Z
+status: down
+code: 502
+responseTime: 501
+lastUpdated: 2024-05-16T23:46:24.493Z
 startTime: 2024-05-07T10:36:33.002Z
 generator: Upptime <https://github.com/upptime/upptime>
