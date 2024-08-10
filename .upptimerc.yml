@@ -7,15 +7,17 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Cliffe Group Datalab
     url: https://datalab.cliffegroup.co.uk
+    maxResponseTime: 10000
   - name: Cliffe Group Datalab (API)
-    url: https://datalab-api.cliffegroup.co.uk
+    url: https://datalab-api.cliffegroup.co.uk/healthcheck/is_ready
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /datalab-status
-  logoUrl: https://mjcliffe.github.io/CliffeGroupWebsite//images/CliffeGroupLogo.png
+  logoUrl: https://mjcliffe.github.io/CliffeGroupWebsite/images/CliffeGroupLogo.png
   name: Cliffe Group Datalab Status
   # introTitle: 
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
