@@ -87,7 +87,7 @@
     "url": "https://datalab-api.cliffegroup.co.uk/healthcheck/is_ready",
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
     "uptimeDay": "99.38%",
     "uptimeWeek": "97.62%",
@@ -99,6 +99,7 @@
     "timeMonth": 544,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2025-04-06": 38,
       "2025-04-05": 10,
       "2025-04-04": 17,
