@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/datalab.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.17%",
-    "time": 620,
-    "timeDay": 543,
-    "timeWeek": 607,
-    "timeMonth": 572,
-    "timeYear": 625,
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.18%",
+    "time": 619,
+    "timeDay": 438,
+    "timeWeek": 561,
+    "timeMonth": 577,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2025-05-07": 10,
       "2025-04-24": 172,
@@ -80,8 +80,7 @@
       "2024-06-02": 11,
       "2024-06-01": 21,
       "2024-05-31": 19,
-      "2024-05-30": 11,
-      "2024-05-17": 460
+      "2024-05-30": 11
     }
   },
   {
@@ -90,16 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab-api",
     "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.43%",
     "time": 577,
-    "timeDay": 544,
-    "timeWeek": 530,
-    "timeMonth": 529,
-    "timeYear": 581,
+    "timeDay": 528,
+    "timeWeek": 522,
+    "timeMonth": 530,
+    "timeYear": 582,
     "dailyMinutesDown": {
       "2025-05-15": 20,
       "2025-05-11": 17,
@@ -168,8 +167,7 @@
       "2024-06-02": 26,
       "2024-06-01": 38,
       "2024-05-30": 85,
-      "2024-05-29": 1,
-      "2024-05-17": 494
+      "2024-05-29": 1
     }
   }
 ]
