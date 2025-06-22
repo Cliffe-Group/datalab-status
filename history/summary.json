@@ -6,14 +6,14 @@
     "slug": "cliffe-group-datalab",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "98.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.26%",
     "time": 610,
-    "timeDay": 368,
-    "timeWeek": 472,
-    "timeMonth": 516,
+    "timeDay": 482,
+    "timeWeek": 497,
+    "timeMonth": 511,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2025-06-20": 20,
@@ -92,10 +92,10 @@
     "uptimeWeek": "93.06%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.42%",
-    "time": 570,
-    "timeDay": 296,
-    "timeWeek": 431,
-    "timeMonth": 476,
+    "time": 569,
+    "timeDay": 383,
+    "timeWeek": 428,
+    "timeMonth": 469,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2025-06-18": 699,
@@ -160,8 +160,7 @@
       "2024-09-08": 9,
       "2024-09-05": 10,
       "2024-08-13": 22,
-      "2024-07-01": 10,
-      "2024-06-22": 9
+      "2024-07-01": 10
     }
   }
 ]
