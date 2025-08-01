@@ -7,10 +7,10 @@ assignees: # Users to assign downtime issues (optional)
 sites:
   - name: Cliffe Group Datalab
     url: https://datalab.cliffegroup.co.uk
-    slug: datalab-app
+    slug: cliffe-group-datalab
   - name: Cliffe Group Datalab (API)
     url: https://datalab-api.cliffegroup.co.uk/healthcheck/is_ready
-    slug: datalab-api
+    slug: cliffe-group-datalab-api
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
