@@ -4,8 +4,8 @@
     "url": "https://datalab.cliffegroup.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/datalab.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab",
-    "status": "up",
-    "uptime": "98.63%",
+    "status": "down",
+    "uptime": "98.75%",
     "uptimeDay": "99.13%",
     "uptimeWeek": "64.78%",
     "uptimeMonth": "91.61%",
@@ -16,6 +16,7 @@
     "timeMonth": 670,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-08-06": 12,
       "2025-08-05": 15,
       "2025-08-03": 1276,
