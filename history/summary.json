@@ -11,9 +11,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.87%",
     "time": 622,
-    "timeDay": 828,
-    "timeWeek": 685,
-    "timeMonth": 632,
+    "timeDay": 615,
+    "timeWeek": 681,
+    "timeMonth": 633,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2025-09-20": 101,
@@ -79,8 +79,7 @@
       "2024-10-06": 13,
       "2024-10-05": 9,
       "2024-10-04": 20,
-      "2024-10-03": 9,
-      "2024-10-02": 9
+      "2024-10-03": 9
     }
   },
   {
@@ -89,15 +88,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/datalab-api.cliffegroup.co.uk.ico",
     "slug": "cliffe-group-datalab-api",
     "status": "up",
-    "uptime": "98.98%",
+    "uptime": "98.99%",
     "uptimeDay": "94.97%",
-    "uptimeWeek": "98.37%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "98.59%",
     "time": 590,
-    "timeDay": 540,
-    "timeWeek": 621,
-    "timeMonth": 608,
+    "timeDay": 574,
+    "timeWeek": 613,
+    "timeMonth": 609,
     "timeYear": 614,
     "dailyMinutesDown": {
       "2025-10-01": 72,
@@ -169,8 +168,7 @@
       "2024-11-05": 298,
       "2024-11-03": 16,
       "2024-10-06": 32,
-      "2024-10-05": 33,
-      "2024-10-02": 19
+      "2024-10-05": 33
     }
   }
 ]
