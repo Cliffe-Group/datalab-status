@@ -1,7 +1,7 @@
 url: https://datalab-api.cliffegroup.co.uk/healthcheck/is_ready
 status: up
 code: 200
-responseTime: 691
-lastUpdated: 2026-04-09T23:38:52.506Z
+responseTime: 611
+lastUpdated: 2026-04-10T23:38:00.588Z
 startTime: 2024-05-07T10:36:33.002Z
 generator: Upptime <https://github.com/upptime/upptime>
